@@ -1,3 +1,3 @@
 export function message() {
-  return "LOL";
+  return "LOL2";
 }
